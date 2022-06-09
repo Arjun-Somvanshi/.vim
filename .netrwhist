@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/zephyrus/.vim/colors'
+let g:netrw_dirhist_5='/home/zephyrus/.vim'
+let g:netrw_dirhist_4='/home/zephyrus/.vim/plugged/new-dawn-fades'
+let g:netrw_dirhist_3='/home/zephyrus/.config/alacritty'
+let g:netrw_dirhist_2='/home/zephyrus'
+let g:netrw_dirhist_1='/home/zephyrus/.config/alacritty'
+let g:netrw_dirhist_0='/home/zephyrus'
+let g:netrw_dirhist_9='/home/zephyrus/projects/Reminiscor/src'
+let g:netrw_dirhist_8='/home/zephyrus/projects/Reminiscor'
+let g:netrw_dirhist_7='/home/zephyrus/.vim/plugged/gruvbox/colors'
